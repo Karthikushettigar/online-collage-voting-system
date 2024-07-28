@@ -1,4 +1,4 @@
-﻿# mini-project---online-collage-voting-system
+﻿# ONLINE COLLEGE VOTING SYSTEM WITH ENCRYPTION-BASED AUTHENTICATION
 This is a PHP-based online voting system. It allows candidates to register and voters to cast their votes. The system also provides a dashboard for administrators to manage the voting process.
 
 ## Features
